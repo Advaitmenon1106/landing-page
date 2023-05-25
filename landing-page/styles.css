@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
 }
 
 .hero{
@@ -76,9 +77,20 @@ body button{
     font: 36px italic;
     padding: 200px;
     color: #1f2937;
-    margin-bottom: 500px;
+    margin-bottom: 200px;
 }
 
-.call-to-action{
-    background-color: blue;
+.call-box{
+    background-color: #3882f6;
+    margin: auto;
+    color: #e5e7eb;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    padding-left: 90px;
+    
 }
+
