@@ -91,6 +91,21 @@ body button{
     margin-bottom: 100px;
     border-radius: 10px;
     padding-left: 90px;
+}
+
+.header{
+    background-color: #1f2937;
+    display: flex;
+    padding-top: 30px;
+    padding-right: 30px;
+    text-align: right;
+    width: auto;
     
 }
 
+.headerText{
+    flex: 1;
+    color: #e5e7eb;
+    font-size: 18px;
+    
+}
